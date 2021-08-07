@@ -1,0 +1,13 @@
+.NavItem {
+  list-style: none;
+}
+
+.NavLink {
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.NavLinkActive {
+  color: red;
+}
