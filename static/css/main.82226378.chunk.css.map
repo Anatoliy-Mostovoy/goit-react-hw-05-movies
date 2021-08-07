@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.module.css"],"names":[],"mappings":"AAAA,oBACE,eACF,CAEA,oBACE,UAAY,CACZ,cAAe,CACf,eACF,CAEA,0BACE,SACF","file":"main.82226378.chunk.css","sourcesContent":[".NavItem {\n  list-style: none;\n}\n\n.NavLink {\n  color: black;\n  font-size: 20px;\n  font-weight: 700;\n}\n\n.NavLinkActive {\n  color: red;\n}\n"]}
